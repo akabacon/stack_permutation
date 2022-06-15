@@ -3,7 +3,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 // Input Array
-int input[] = {1,2,3,4}; //track is reverse
+int input[] = {1,2,3,4}; //stack is normal
 // Output Array
 int output[] = {1,2,3,4};
 
